@@ -1,3 +1,5 @@
+Formula 1 World Drivers Championship Clinch Analyzer
+
 This is a jupyter notebook just for fun that I've coded while watching the races.
 
 Currently it calculates the maximum drivers and constructors place that drivers and constructors can get based on maximum points if the teams get the top place.
